@@ -33,5 +33,5 @@ for PINCODE in PINCODES:
             i = i + 1
         obj = json.dumps(info, indent = 1)
         ans = telegram_bot.telegram_bot_sendtext(obj)
-        
+        # print(ans)
         
