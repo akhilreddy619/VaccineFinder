@@ -1,3 +1,3 @@
 [tele-config]
-bot_token = '1751848102:AAHHrolAVMzVc-zFPNlICBpyfgnvDGHYdjQ'
-bot_chatID = '1129605906'
+bot_token = '1751848102:adsfdsfdsfdsgdsgdf'
+bot_chatID = '112960asadsds'
